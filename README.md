@@ -15,3 +15,6 @@
 2. temperature_check_system.c
 3. stress_analysis_system.c
 4. vibration_analysis.c
+
+## Lab_4
+1. simple_calculator.c
